@@ -1,5 +1,6 @@
 .env
 .build
+.vscode
 build
 web_modules
 node_modules
