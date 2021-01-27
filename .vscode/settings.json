@@ -1,0 +1,69 @@
+{
+    "window.zoomLevel": 2,
+    "editor.fontSize": 20,
+    "editor.lineHeight": 36,
+    "editor.formatOnType": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "solid",
+    "editor.scrollBeyondLastLine": false,
+    "editor.minimap.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "extensions.ignoreRecommendations": false,
+    "files.autoSave": "off",
+    "editor.fontFamily": "'mononoki bold', Menlo, Monaco, 'Courier New', monospace",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.fontFamily": "'mononoki bold', Menlo, Monaco, 'Courier New', monospace",
+    "terminal.integrated.lineHeight": 1.2,
+    "emmet.triggerExpansionOnTab": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.tabCompletion": "on",
+    "explorer.confirmDelete": false,
+    "workbench.activityBar.visible": false,
+    "telemetry.enableTelemetry": false,
+    "editor.lineNumbers": "on",
+    "editor.wordWrap": "off",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "[typescript]": {
+        "togglequotes.chars": [
+            "\"",
+            "'",
+            "`"
+        ]
+    },
+    "dimmer.context": 1,
+    "dimmer.toggleDimmerCommandScope": "workspace",
+    "liveshare.featureSet": "insiders",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.suggestSelection": "first",
+    "editor.quickSuggestions": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+    "diffEditor.renderSideBySide": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "prettier.packageManager": "yarn",
+    "prettier.proseWrap": "always",
+    "editor.linkedEditing": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.foldingStrategy": "indentation",
+    "explorer.openEditors.visible": 0,
+    "workbench.colorTheme": "Night Owl",
+    "editor.glyphMargin": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+    "workbench.statusBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.env.osx": {
+        "TERM_SUBTYPE": "vscode-egghead"
+    }
+}

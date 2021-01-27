@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "svelte": "^3.31.0"
+  },
+  "devDependencies": {
+    "@snowpack/app-scripts-svelte": "^1.9.2",
+    "@snowpack/plugin-dotenv": "^2.0.5",
+    "@snowpack/plugin-postcss": "^1.0.11",
+    "@snowpack/plugin-run-script": "^2.2.1",
+    "@snowpack/plugin-svelte": "^3.4.1",
+    "@testing-library/jest-dom": "^5.11.8",
+    "@testing-library/svelte": "^3.0.3",
+    "autoprefixer": "^10.1.0",
+    "cssnano": "^4.1.10",
+    "jest": "^26.6.3",
+    "postcss": "^8.2.2",
+    "postcss-cli": "^8.3.1",
+    "snowpack": "^2.18.5",
+    "snowpack-plugin-rollup-bundle": "^0.3.3",
+    "svelte-check": "^1.1.24",
+    "tailwindcss": "^2.0.2"
+  }
+}
